@@ -1,4 +1,4 @@
 this is first file
-third line edited second
+third line edited third second
 second line edited
 
